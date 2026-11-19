@@ -5,8 +5,8 @@ Ce projet s’inscrit dans le cadre de mon stage de Master 2 en Géomatique et c
 L’objectif de mon stage était de contribuer à la consolidation du prototype de l’Observatoire de l’agriculture et de l’alimentation et à son évolution vers une phase démonstrateur.
 L’Observatoire vise à transformer des données provenant de différentes sources en informations territoriales utiles à l’analyse des dynamiques agricoles et alimentaires.
 
-## 2. Mes contributions
-Au cours de ce stage, j’ai contribué aux travaux suivants :
+## 2. Mes réalisations
+Au cours de ce stage, j'ai réalisé les travaux suivants :
 - Collecte et préparation de données issues de différentes sources.
 - Contrôle de la cohérence et de la structure des données.
 - Traitement et croisement de données géographiques et statistiques.
