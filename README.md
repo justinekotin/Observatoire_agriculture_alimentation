@@ -55,4 +55,4 @@ Ce travail m’a permis de contribuer à une démarche de valorisation des donn�
 - Documentation méthodologique.
 
  ## 7.  Cadre du projet
-Cette présentation décrit mes contributions dans le cadre d’un projet collectif réalisé à Montpellier Méditerranée Métropole. Elle ne contient pas les fichiers internes de traitement ni les données sources du projet.
+Cette présentation décrit mes réalisations dans le cadre d’un projet collectif réalisé à Montpellier Méditerranée Métropole. Elle ne contient pas les fichiers internes de traitement ni les données sources du projet.
